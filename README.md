@@ -1,4 +1,5 @@
 # FinancialCalc
+Console application creation.
 
 **Objective**
 Apply variables, constants, and user input to perform business calculations.
