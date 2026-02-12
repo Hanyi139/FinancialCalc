@@ -52,15 +52,16 @@ If revenue is zero, margin safely defaults to 0 to prevent division errors.
 
 ## How to Run
 
-### Prerequisites
+## Prerequisites
 - .NET SDK installed
 - Visual Studio or VS Code (optional)
 
-### Run Locally
+## Run Locally
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/hanyi139/FinancialCalc.git
+cd FinancialCalc
+
 
